@@ -2,7 +2,7 @@
 JMeter Performance Testing Task 
 
 # Objective:
-As the admin of demo blaze website, we are planning to do a marketing plan for mobiles and monitors and laptops, we would like to assess the performance across all the website 
+As the admin of demo blaze website, we are planning to do a marketing plan for mobiles and monitors and laptops, we would like to assess the performance across all the website .
 
 # Assumptions:
 
